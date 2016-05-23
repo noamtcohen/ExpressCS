@@ -1,0 +1,6 @@
+ExpressCS.Test/bin/
+*.TMP
+ExpressCS/addADirectoryTo.csproj/
+ExpressCS/bin/
+packages/
+ExpressCS/edge/
